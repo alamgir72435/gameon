@@ -1,0 +1,575 @@
+
+saif@DESKTOP-1DFT4FH MINGW32 ~/Desktop/gmail
+$ node check
+database connected
+{ serial: 0, u: 'Shamim234', p: '098775', msg: 'incorrect' }
+{ serial: 1, u: 'umongthwai', p: '01881697667', msg: 'incorrect' }
+{ serial: 2, u: 'Omervai', p: 'FAROQUE123', msg: 'incorrect' }
+{ serial: 3, u: 'Rana456', p: '900900', msg: 'incorrect' }
+{ serial: 4, u: 'Omervai', p: 'FAROQUE123', msg: 'incorrect' }
+{ serial: 5, u: 'Niloy27', p: 'niloy27', balance: 'Balance (0.00)' }
+{ serial: 6, u: 'Abir12', p: 'a123295b', balance: 'Balance (0.00)' }
+{
+  serial: 7,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{ serial: 8, u: 'Omervai', p: 'Faroque123', msg: 'incorrect' }
+{ serial: 9, u: 'Omervai', p: 'FAROQUE123', msg: 'incorrect' }
+{ serial: 10, u: 'Rana456', p: '050596', msg: 'incorrect' }
+{ serial: 11, u: 'Rana456', p: '900900', msg: 'incorrect' }
+{ serial: 12, u: 'Rana456', p: '123456', msg: 'incorrect' }
+{ serial: 13, u: 'Ashik20', p: 'ashikmim', balance: 'Balance (5.85)' }
+{
+  serial: 14,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 15,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 16,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{ serial: 17, u: 'Shamim234', p: '098775', msg: 'incorrect' }
+{ serial: 18, u: 'Shamim234', p: '098775', msg: 'incorrect' }
+{ serial: 19, u: 'Omervai', p: 'FAROQUE123', msg: 'incorrect' }
+{
+  serial: 20,
+  u: 'Saif112233',
+  p: 'saif112233',
+  balance: 'Balance (5.58)'
+}
+{ serial: 21, u: 'Rana456', p: '050596', msg: 'incorrect' }
+{ serial: 22, u: 'Satyababu', p: '112233', balance: 'Balance (5.00)' }
+{ serial: 23, u: 'Satyababu', p: '112233', balance: 'Balance (5.00)' }
+{ serial: 24, u: 'Bappy', p: 'Arif12', balance: 'Balance (24.13)' }
+{ serial: 25, u: 'Rana456', p: '050596', msg: 'incorrect' }
+{ serial: 26, u: 'Raju', p: '211212', msg: 'incorrect' }
+{ serial: 27, u: 'Niloy27', p: 'niloy27', balance: 'Balance (0.00)' }
+{
+  serial: 28,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 29,
+  u: 'esmael367',
+  p: '360128',
+  balance: 'Balance (202.50)'
+}
+{ serial: 30, u: 'umongthwai', p: '01881697667', msg: 'incorrect' }
+{ serial: 31, u: 'Omervai', p: 'Faroque123', msg: 'incorrect' }
+{
+  serial: 32,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{ serial: 33, u: 'manik333', p: '354402', balance: 'Balance (0.00)' }
+{ serial: 34, u: 'Shamim234', p: '098775', msg: 'incorrect' }
+{ serial: 35, u: 'Rana456', p: '050596', msg: 'incorrect' }
+{
+  serial: 36,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{ serial: 37, u: 'Mintu2920', p: 'is', msg: 'incorrect' }
+{ serial: 38, u: 'Shamim234', p: '098775', msg: 'incorrect' }
+{ serial: 39, u: 'umongthwai', p: '01881697667', msg: 'incorrect' }
+{ serial: 40, u: 'Rup1', p: 'Pappu50', balance: 'Balance (5.79)' }
+{ serial: 41, u: 'Satyababu', p: '112233', balance: 'Balance (5.00)' }
+{
+  serial: 42,
+  u: 'Mamun20',
+  p: 'mamun0000@',
+  balance: 'Balance (1,705.15)'
+}
+{
+  serial: 43,
+  u: 'Milton123',
+  p: '20110823',
+  balance: 'Balance (0.00)'
+}
+{ serial: 44, u: 'palash123', p: '123456', msg: 'incorrect' }
+{ serial: 45, u: 'shamol124', p: '335186', balance: 'Balance (10.00)' }
+{ serial: 46, u: '47732', p: 'habib32', balance: 'Balance (10.00)' }
+{
+  serial: 47,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{ serial: 48, u: 'Rana456', p: '900900', msg: 'incorrect' }
+{
+  serial: 49,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{ serial: 50, u: 'Shamim234', p: '098775', msg: 'incorrect' }
+{
+  serial: 51,
+  u: 'Mkk_sohel02',
+  p: 'farha02sohel',
+  balance: 'Balance (50.00)'
+}
+{ serial: 52, u: 'Sojol2233', p: '123456789', msg: 'incorrect' }
+{
+  serial: 53,
+  u: 'Mkk_sohel02',
+  p: 'farha02sohel',
+  balance: 'Balance (50.00)'
+}
+{ serial: 54, u: 'Sojol2233', p: '123456789', msg: 'incorrect' }
+{ serial: 55, u: 'Apon876', p: 'tsgushsi', msg: 'incorrect' }
+{
+  serial: 56,
+  u: 'Nayeem123321',
+  p: 'naim123.123@',
+  balance: 'Balance (0.00)'
+}
+{ serial: 57, u: 'Shamol124', p: '335187', msg: 'incorrect' }
+{ serial: 58, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{ serial: 59, u: 'gameon7175', p: '001122', balance: 'Balance (0.00)' }
+{ serial: 60, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{ serial: 61, u: 'Gameon7175', p: '001122', balance: 'Balance (0.00)' }
+{ serial: 62, u: 'Rup1', p: 'Pappu50', balance: 'Balance (5.79)' }
+{ serial: 63, u: 'Rup1', p: 'Pappu50', balance: 'Balance (5.79)' }
+{ serial: 64, u: 'Gameon7175', p: '001122', balance: 'Balance (0.00)' }
+{ serial: 65, u: 'gameon7175', p: '001122', balance: 'Balance (0.00)' }
+{
+  serial: 66,
+  u: 'Shuvo001',
+  p: 'shuvodb...',
+  balance: 'Balance (5.00)'
+}
+{
+  serial: 67,
+  u: 'Milton123',
+  p: '20110823',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 68,
+  u: 'Moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{ serial: 69, u: 'Saidur', p: 'is', msg: 'incorrect' }
+{ serial: 70, u: 'Rup1', p: 'Pappu50', balance: 'Balance (5.79)' }
+{ serial: 71, u: 'test', p: 'is', msg: 'incorrect' }
+{ serial: 72, u: 'aminur', p: 'is', msg: 'incorrect' }
+{
+  serial: 73,
+  u: 'Yeamin1234',
+  p: '01687492353',
+  balance: 'Balance (0.00)'
+}
+{ serial: 74, u: 'test', p: 'is', msg: 'incorrect' }
+{ serial: 75, u: 'Timon13', p: 'Sovone', msg: 'incorrect' }
+{ serial: 76, u: 'Gameon7175', p: '001122', balance: 'Balance (0.00)' }
+{ serial: 77, u: 'Gameon7175', p: '001122', balance: 'Balance (0.00)' }
+{
+  serial: 78,
+  u: 'Yeamin1234',
+  p: '01687492353',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 79,
+  u: 'Shuvo001',
+  p: 'shuvodb...',
+  balance: 'Balance (5.00)'
+}
+{ serial: 80, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{
+  serial: 81,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{ serial: 82, u: 'Rafiq', p: '12345678', msg: 'incorrect' }
+{ serial: 83, u: 'Gameon7175', p: '001122', balance: 'Balance (0.00)' }
+{ serial: 84, u: 'Gameon7175', p: '001122', balance: 'Balance (0.00)' }
+{
+  serial: 85,
+  u: 'mkk_sohel02',
+  p: 'farha02sohel',
+  balance: 'Balance (50.00)'
+}
+{ serial: 86, u: 'gameon7175', p: '001122', balance: 'Balance (0.00)' }
+{
+  serial: 87,
+  u: 'Shuvo001',
+  p: 'shuvodb...',
+  balance: 'Balance (5.00)'
+}
+{ serial: 88, u: 'Mintu2920', p: 'is', msg: 'incorrect' }
+{
+  serial: 89,
+  u: 'manik333',
+  p: '35440201928-727383',
+  msg: 'incorrect'
+}
+{ serial: 90, u: 'Dhanesor04', p: 'poi098', msg: 'incorrect' }
+{ serial: 91, u: 'Alauddin123', p: 'sija12398', msg: 'incorrect' }
+{
+  serial: 92,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{ serial: 93, u: 'Ashik20', p: 'ashikmim', balance: 'Balance (5.85)' }
+{ serial: 94, u: 'superover', p: 'ritars', msg: 'incorrect' }
+{ serial: 95, u: 'Ashraful201', p: 'is', msg: 'incorrect' }
+{ serial: 96, u: 'Ashik20', p: 'ashikmim', balance: 'Balance (5.85)' }
+{ serial: 97, u: 'Zabid', p: 'fuckbaby2', msg: 'incorrect' }
+{ serial: 98, u: 'manik', p: '354402', msg: 'incorrect' }
+{ serial: 99, u: 'Ashik20', p: 'ashikmim', balance: 'Balance (5.85)' }
+{ serial: 100, u: 'manik333', p: '354402', balance: 'Balance (0.00)' }
+{
+  serial: 101,
+  u: 'raj505',
+  p: 'swarnapuja',
+  balance: 'Balance (10.61)'
+}
+{
+  serial: 102,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{ serial: 103, u: 'manik', p: '354402', msg: 'incorrect' }
+{ serial: 104, u: 'Ashraful201', p: 'is', msg: 'incorrect' }
+{ serial: 105, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{
+  serial: 106,
+  u: 'rachee',
+  p: 'rachee1234',
+  balance: 'Balance (20.00)'
+}
+{ serial: 107, u: 'Ashraful201', p: 'is', msg: 'incorrect' }
+{ serial: 108, u: 'rahsed12', p: 'rahsed12', msg: 'incorrect' }
+{ serial: 109, u: 'SPS', p: 'ASDFGH', msg: 'incorrect' }
+{ serial: 110, u: 'manik', p: '354402', msg: 'incorrect' }
+{ serial: 111, u: 'Sobuj55', p: '0176676', msg: 'incorrect' }
+{ serial: 112, u: 'Shishir202', p: '30807766', msg: 'incorrect' }
+{ serial: 113, u: 'Ashik20', p: 'ashikmim', balance: 'Balance (5.85)' }
+{
+  serial: 114,
+  u: 'Yeamin1234',
+  p: '01687492353',
+  balance: 'Balance (0.00)'
+}
+{ serial: 115, u: 'ujji7', p: 'uzzal7', balance: 'Balance (0.00)' }
+{ serial: 116, u: 'mejan2020', p: '000000', msg: 'incorrect' }
+{ serial: 117, u: '01704643194', p: 'is', msg: 'incorrect' }
+{ serial: 118, u: 'Ashik20', p: 'ashikmim', balance: 'Balance (5.85)' }
+{
+  serial: 119,
+  u: 'Sobuj66',
+  p: 'sobuj2925',
+  balance: 'Balance (5.30)'
+}
+{
+  serial: 120,
+  u: 'Gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 121,
+  u: 'Ayon2002',
+  p: '68362573',
+  balance: 'Balance (200.00)'
+}
+{ serial: 122, u: 'Hmhasibmahmud', p: 'hasibraj', msg: 'incorrect' }
+{
+  serial: 123,
+  u: 'mkk_sohel02',
+  p: 'farha02sohel',
+  balance: 'Balance (50.00)'
+}
+{
+  serial: 124,
+  u: 'Nayeem123321',
+  p: 'naim123.123@',
+  balance: 'Balance (0.00)'
+}
+{ serial: 125, u: 'Ashraful201', p: 'is', msg: 'incorrect' }
+{ serial: 126, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{
+  serial: 127,
+  u: 'Nayeem123321',
+  p: 'naim123.123@',
+  balance: 'Balance (0.00)'
+}
+{ serial: 128, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{
+  serial: 129,
+  u: 'Shuvo001',
+  p: 'shuvodb...',
+  balance: 'Balance (5.00)'
+}
+{
+  serial: 130,
+  u: 'Sharyar',
+  p: '173040%@ridoy',
+  balance: 'Balance (0.00)'
+}
+{ serial: 131, u: 'Ashik20', p: 'ashikmim', balance: 'Balance (5.85)' }
+{
+  serial: 132,
+  u: 'gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 133,
+  u: 'Sukantomondol',
+  p: '199705',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 134,
+  u: 'Gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{ serial: 135, u: 'Sojol2233', p: '123456789', msg: 'incorrect' }
+{
+  serial: 136,
+  u: 'gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{ serial: 137, u: 'Bangali', p: '15218410', msg: 'incorrect' }
+{ serial: 138, u: 'Ashik', p: 'ashikmim', msg: 'incorrect' }
+{
+  serial: 139,
+  u: 'mkk_sohel02',
+  p: 'farha02sohel',
+  balance: 'Balance (50.00)'
+}
+{ serial: 140, u: 'Badol1988', p: 'm@123m76', msg: 'incorrect' }
+{ serial: 141, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{
+  serial: 142,
+  u: 'Gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{ serial: 143, u: 'rony@123', p: 'chiranjit1', msg: 'incorrect' }
+{ serial: 144, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{
+  serial: 145,
+  u: 'Yeamin1234',
+  p: '01687492353',
+  balance: 'Balance (0.00)'
+}
+{ serial: 146, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{ serial: 147, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{
+  serial: 148,
+  u: 'gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{ serial: 149, u: 'SPS', p: '017103838', msg: 'incorrect' }
+{
+  serial: 150,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
+}
+{ serial: 151, u: 'Saidur', p: 'is', msg: 'incorrect' }
+{
+  serial: 152,
+  u: 'gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{ serial: 153, u: 'rony@123', p: 'chiranjit1', msg: 'incorrect' }
+{
+  serial: 154,
+  u: 'gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{ serial: 155, u: 'SPS', p: '017103838', msg: 'incorrect' }
+{
+  serial: 156,
+  u: 'Gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 157,
+  u: 'Mkk_sohel02',
+  p: 'farha02sohel',
+  balance: 'Balance (50.00)'
+}
+{
+  serial: 158,
+  u: 'Gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 159,
+  u: 'Gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{ serial: 160, u: 'Rup1', p: 'Pappu50', balance: 'Balance (5.79)' }
+{ serial: 161, u: 'Timon13', p: 'Sovone', msg: 'incorrect' }
+{
+  serial: 162,
+  u: 'Gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 163,
+  u: 'Shamol124',
+  p: '335186',
+  balance: 'Balance (10.00)'
+}
+{ serial: 164, u: 'Rup1', p: 'Pappu50', balance: 'Balance (5.79)' }
+{
+  serial: 165,
+  u: 'Gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 166,
+  u: 'Gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 167,
+  u: 'Mkk_sohel02',
+  p: 'farha02sohel',
+  balance: 'Balance (50.00)'
+}
+{
+  serial: 168,
+  u: 'gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{ serial: 169, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{
+  serial: 170,
+  u: 'Gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{ serial: 171, u: 'Badboy420', p: '12345678910', msg: 'incorrect' }
+{
+  serial: 172,
+  u: 'Shamol124',
+  p: '335186',
+  balance: 'Balance (10.00)'
+}
+{ serial: 173, u: 'SPS', p: 'ASDFGH', msg: 'incorrect' }
+{ serial: 174, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{
+  serial: 175,
+  u: 'mkk_sohel02',
+  p: 'farha02sohel',
+  balance: 'Balance (50.00)'
+}
+{
+  serial: 176,
+  u: 'Gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{ serial: 177, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{ serial: 178, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{
+  serial: 179,
+  u: 'Jowel0855',
+  p: 'Jowel0855',
+  balance: 'Balance (22.98)'
+}
+{ serial: 180, u: 'Shamim234', p: '098765', balance: 'Balance (0.00)' }
+{
+  serial: 181,
+  u: 'mkk_sohel02',
+  p: 'farha02sohel',
+  balance: 'Balance (50.00)'
+}
+{
+  serial: 182,
+  u: 'mkk_sohel02',
+  p: 'farha02sohel',
+  balance: 'Balance (50.00)'
+}
+{
+  serial: 183,
+  u: 'mkk_sohel02',
+  p: 'farha02sohel',
+  balance: 'Balance (50.00)'
+}
+{ serial: 184, u: 'SPS', p: 'ASDFGH', msg: 'incorrect' }
+{
+  serial: 185,
+  u: 'tgame0833@gmail.com',
+  p: 'iloveyou',
+  msg: 'incorrect'
+}
+{
+  serial: 186,
+  u: 'Gameon7175',
+  p: '001122',
+  balance: 'Balance (0.00)'
+}
+{
+  serial: 187,
+  u: 'mkk_sohel02',
+  p: 'farha02sohel',
+  balance: 'Balance (50.00)'
+}
+{ serial: 188, u: 'Rup1', p: 'Pappu50', balance: 'Balance (5.79)' }
+{ serial: 189, u: 'Sojol', p: 'is', msg: 'incorrect' }
+{ serial: 190, u: 'Sazzad1', p: '30807766', balance: 'Balance (0.00)' }
+{
+  serial: 191,
+  u: 'esmael367',
+  p: '360128',
+  balance: 'Balance (202.50)'
+}
+{
+  serial: 192,
+  u: 'esmael367',
+  p: '360128',
+  balance: 'Balance (202.50)'
+}
+{ serial: 193, u: 'Ashik20', p: 'ashikmim', balance: 'Balance (5.85)' }
+{
+  serial: 194,
+  u: 'shamol124',
+  p: '335186',
+  balance: 'Balance (10.00)'
+}
+{ serial: 195, u: 'Ashik20', p: 'ashikmim', balance: 'Balance (5.85)' }
+{
+  serial: 196,
+  u: 'moni22',
+  p: '998877665544332211',
+  balance: 'Balance (0.00)'
